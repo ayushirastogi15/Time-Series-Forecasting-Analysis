@@ -1,0 +1,1 @@
+It includes the dataset needed to predict the stock market prices of a company. For the training of the model, it is using "output_ril.csv" and for the testing of the model it is using "output_ril_test.csv". These files are downloaded from the nsepy website. You can know more about this and check that site from [this](https://nsepy.xyz/) link.
