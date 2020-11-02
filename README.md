@@ -1,6 +1,8 @@
 # Time-Series-Forecasting-and-Analysis
 Time Series Forecasting is the prediction of something (price, stock prices, temperature etc.) based on historical daily data using some machine learning algorithms. It also includes analysis of the data to find out the trends and patterns in the day-to-day data.
 
+![Prediction of Close Prices]()
+
 ## Why I chose to predict the market prices of a stock ?
 For any investor, it is very necessary to know whether the stock prices will rise or fall in the future in which (s)he is investing. Just by looking at the balance sheets or the income statements of the company, it is hard to tell which company has a bright future and is good for investing (or trading) purposes. They should have an idea about the future prices of stock so that they cannot be in losses. And, there should be some way to know that. 
 
